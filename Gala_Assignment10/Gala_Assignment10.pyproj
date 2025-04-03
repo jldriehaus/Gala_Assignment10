@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0ac1646e-23f3-40fa-b1e2-f5b3e9da73fd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Gala_Assignment10.py</StartupFile>
+    <StartupFile>mainPackage\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,20 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Gala_Assignment10.py" />
+    <Compile Include="APIStuff\API.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="APIStuff\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\main.py" />
+    <Compile Include="mainPackage\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="APIStuff\" />
+    <Folder Include="mainPackage\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
