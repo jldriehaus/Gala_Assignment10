@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Gala_Assignment10", "Gala_Assignment10\Gala_Assignment10.pyproj", "{0AC1646E-23F3-40FA-B1E2-F5B3E9DA73FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC1646E-23F3-40FA-B1E2-F5B3E9DA73FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC1646E-23F3-40FA-B1E2-F5B3E9DA73FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65CDFB5-48A7-49F2-91A0-9ED79982596D}
+	EndGlobalSection
+EndGlobal
