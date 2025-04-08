@@ -1,6 +1,6 @@
 # File Name : Gala_Assignment10
-# Student Name: Jack Driehaus 
-# email:  driehajl@mail.uc.edu
+# Student Name: Jack Driehaus, Madison Geier
+# email:  driehajl@mail.uc.edu, geierml@mail.uc.edu
 # Assignment Number: Assignment 10
 # Due Date:   04/10/2025
 # Course #/Section:   Is4010-002
